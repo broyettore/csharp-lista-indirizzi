@@ -12,11 +12,13 @@ namespace csharp_lista_indirizzi.Classes
         {
             string[] splitAddress = address.Split(",");
 
+            // Checks if the address has the right format since there are 6 columns
             if (splitAddress.Length != 6)
             {
                 throw new ArgumentException($"Invalid address format: {address}");
             }
 
+            // loops through each text field to check if it's empty
             foreach (string element in splitAddress)
             {
                 if (element.Length == 0)
@@ -34,7 +36,7 @@ namespace csharp_lista_indirizzi.Classes
 
 
 
-            return new(name, surname, street, city, province, zip);
+            return new(name, surname, street, city, province, zip); // return a new address
 
         }
     }

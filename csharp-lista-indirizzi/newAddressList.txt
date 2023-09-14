@@ -1,0 +1,32 @@
+1. *Address* 
+	 Name: John 
+	 Surname: Doe 
+	 Street: 120 jefferson st. 
+	 City: Riverside 
+	 Province: NJ 
+	 ZIP: 08075 
+	
+2. *Address* 
+	 Name: Jack 
+	 Surname: McGinnis 
+	 Street: 220 hobo Av. 
+	 City: Phila 
+	 Province: PA 
+	 ZIP: 09119 
+	
+3. *Address* 
+	 Name: John Da Man 
+	 Surname: Repici 
+	 Street: 120 Jefferson St. 
+	 City: Riverside 
+	 Province: NJ 
+	 ZIP: 08075 
+	
+4. *Address* 
+	 Name: Stephen 
+	 Surname: Tyler 
+	 Street: 7452 Terrace "At the Plaza" road 
+	 City: SomeTown 
+	 Province: SD 
+	 ZIP: 91234 
+	
